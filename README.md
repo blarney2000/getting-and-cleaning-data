@@ -1,8 +1,12 @@
-r<<<<<<< HEAD
+
 # Tiny Dataset Codebook##
 
-#source#
+#Source#
 The source of the data was from "Human Activity Recognition Using Smartphones Data Set", obtained from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
+
+#Dataset Information#
+
+Volunteer subjects performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. 
 
 #Script Description#
 The cleaned dataset ("tidy.txt") was created by the R script, "run_analysis.R", which merges the test and training sets, renames and deletes columns, and creates the output file "tidy.txt" to give mean and standard deviation variables.
@@ -11,9 +15,3 @@ The given test and training sets were merged and given activity labels. The acti
 
 #Cleaned dataset#
 The final, cleaned data set an be found in the table, "tidy.txt". A detailed description of the variables can be found in CodeBook.md.
-=======
-getting-and-cleaning-data
-=========================
-
-Obtains and cleans the Human Activity Recognition Using Smartphones Data Set
->>>>>>> 3e74670c0a83a533d4375347b26d5d78ef7c815b

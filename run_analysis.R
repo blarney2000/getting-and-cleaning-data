@@ -1,7 +1,7 @@
 run_analysis <- function() {
   
     # Prepare the environment
-    workingDir <- "C:/Users/user/Dropbox/School/Data Science 2014/Course 3 - Getting and Cleaning Data/Project 1" 
+    workingDir <- "C:/Human Activity Data Project" 
   
     dataDir  <- paste(workingDir,"data",sep="/")  
     setwd(dataDir)
