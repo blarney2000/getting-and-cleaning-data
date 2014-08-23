@@ -1,7 +1,7 @@
 
-# Tiny Dataset Codebook##
+# Tidy Dataset Readme##
 
-#Source#
+#Data Source#
 The source of the data was from "Human Activity Recognition Using Smartphones Data Set", obtained from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
 
 #Dataset Information#
